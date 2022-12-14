@@ -1,6 +1,6 @@
 ---
 title: RHODAN
-baseurl: "/Rhodan" 
+baseurl: "" 
 url: "https://blog.killswitchx7.com/"
 
 exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md']
