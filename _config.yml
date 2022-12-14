@@ -1,18 +1,16 @@
 ---
 title: RHODAN
-baseurl: "/Rhodan" 
-url: "https://blog.killswitchx7.com/"
-
-exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md']
-
+exclude:
+  - /scripts
+  - /Gemfile
+  - /Makefile
+  - /README.md
 permalink: pretty
-
 collections:
   tools:
     output: true
-
 defaults:
   - scope:
-      path: '_tools'
+      path: _tools
     values:
       layout: bin
