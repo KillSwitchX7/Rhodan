@@ -1,4 +1,4 @@
 # KillSwitchX7
 
-[Rhodan](rhodan.KillSwitchX7.com)
+[Rhodan](https://rhodan.KillSwitchX7.com)
 
