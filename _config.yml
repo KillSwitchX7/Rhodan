@@ -1,16 +1,18 @@
 ---
 title: RHODAN
-exclude:
-  - /scripts
-  - /Gemfile
-  - /Makefile
-  - /README.md
+baseurl: "/" 
+url: "https://github.com/KillSwitchX7/Rhodan"
+
+exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md']
+
 permalink: pretty
+
 collections:
   tools:
     output: true
+
 defaults:
   - scope:
-      path: _tools
+      path: '_tools'
     values:
       layout: bin
