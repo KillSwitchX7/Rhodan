@@ -1,7 +1,7 @@
 ---
 title: RHODAN
-baseurl: "/" 
-url: "https://github.com/KillSwitchX7/Rhodan"
+baseurl: "/Rhodan" 
+url: "https://blog.killswitchx7.com/"
 
 exclude: ['/scripts', '/Gemfile', '/Makefile', '/README.md']
 
